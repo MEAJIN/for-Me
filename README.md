@@ -5,7 +5,7 @@
 ## 프로그래밍
 
 - 코딩 스타일
-  - [디자인 ](https://namu.wiki/w/%EC%BD%94%EB%94%A9%20%EC%8A%A4%ED%83%80%EC%9D%BC)
+  - [디자인 패턴](https://namu.wiki/w/%EC%BD%94%EB%94%A9%20%EC%8A%A4%ED%83%80%EC%9D%BC)
 
 ## ⚙ 기술
 
