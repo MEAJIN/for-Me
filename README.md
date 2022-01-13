@@ -2,6 +2,12 @@
 
 <br />
 
+## 팁
+
+- 프로젝트
+  - [1](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects) 
+
+
 ## 프로그래밍
 
 - 코딩 스타일
