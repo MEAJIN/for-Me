@@ -5,10 +5,13 @@
 ## 팁
 
 - 프로젝트
-  - [1](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects) 
+  - [당신의 사이드 프로젝트를 위한 10가지 팁](https://velog.io/@chris/10-tips-for-starting-and-creating-side-projects) 
 
 - 개발
-  - [1](https://velog.io/@academey/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%ED%95%84%EC%9A%94%ED%95%9C-%EC%97%AD%EB%9F%89-5%EA%B0%80%EC%A7%80)
+  - [개발자가 되기 위해 필요한 역량 5가지](https://velog.io/@academey/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%ED%95%84%EC%9A%94%ED%95%9C-%EC%97%AD%EB%9F%89-5%EA%B0%80%EC%A7%80)
+
+- 인터뷰
+  - [취준생이 반드시 알아야 할 프론트엔드 지식](https://github.com/baeharam/Must-Know-About-Frontend) 
 
 <br />
 
