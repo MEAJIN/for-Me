@@ -30,7 +30,7 @@
 
 - 코드리뷰
   - [코드리뷰의 진짜 목적?](https://blog.logi-spot.com/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EC%9D%98-%EC%A7%84%EC%A7%9C-%EB%AA%A9%EC%A0%81%EC%9D%80-%EB%94%B0%EB%A1%9C%EC%9E%88%EB%8B%A4/) 
-
+  - [코드 리뷰 노하우](https://github.com/MEAJIN/for-Me/blob/main/%EA%B8%B0%EB%A1%9D/%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0%20%EB%85%B8%ED%95%98%EC%9A%B0.md)
 <br />
 
 ## 🌐 WEB
