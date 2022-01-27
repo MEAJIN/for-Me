@@ -16,6 +16,7 @@
   - [취준생이 반드시 알아야 할 프론트엔드 지식](https://github.com/baeharam/Must-Know-About-Frontend)
   - [기술 면접 대비를 위한 기본 개념 정리](https://github.com/WeareSoft/tech-interview)
   - [신입 개발자 전공 지식 & 기술 면접 백과사전](https://github.com/gyoogle/tech-interview-for-developer)
+  - [현직자가 ](https://github.com/brave-people/brave-tech-interview)
 
 - 취준
   - [IT 취업 준비 요령](https://garden1500.tistory.com/m/4)
