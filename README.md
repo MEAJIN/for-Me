@@ -50,3 +50,8 @@
 - Javascript
   - [클린코드](https://github.com/qkraudghgh/clean-code-javascript-ko)
   - [ES6+, 함수형 프로그래밍, 비동기, 동시성 프로그래밍](https://github.com/Functional-JavaScript/FunctionalES)
+
+<br />
+
+- 디자인
+  - [더 나은 회원가입/로그인 UX를 위한 팁들](https://news.hada.io/topic?id=4522&utm_source=weekly&utm_medium=email&utm_campaign=202127) 
