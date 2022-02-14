@@ -23,6 +23,9 @@
 - 취준
   - [IT 취업 준비 요령](https://garden1500.tistory.com/m/4)
   - [대학생을 위한 웹 개발 공부용 체크리스트](https://github.com/xguru/WebDevTutorial)
+
+- 취업 후
+  - [신입 개발자에게 필요한 지식](https://github.com/WooVictory/Ready-For-Tech-Interview) 
 <br />
 
 ## 프로그래밍
