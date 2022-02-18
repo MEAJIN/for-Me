@@ -34,6 +34,10 @@
   - [디자인 패턴](https://namu.wiki/w/%EC%BD%94%EB%94%A9%20%EC%8A%A4%ED%83%80%EC%9D%BC)
 
 <br />
+
+- PS
+  - [JavaScript 알고리즘 및 자료 구조](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md) 
+
 <br />
 
 
