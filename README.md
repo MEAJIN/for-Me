@@ -38,6 +38,8 @@
 - PS
   - [JavaScript 알고리즘 및 자료 구조](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
   - [코딩테스트 대비 문제집(Baekjoon Online Judge)](https://github.com/tony9402/baekjoon)
+  - [코딩테스트 기출 문제 풀이 및 업로드 Repository](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
+
 
 <br />
 
