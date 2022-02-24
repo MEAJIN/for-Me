@@ -36,20 +36,22 @@
 
 <br />
 
+- 클린 코드
+  - [Clean Code 라는 건 없습니다](https://news.hada.io/weekly/202206?utm_source=slack&utm_medium=bot&utm_campaign=T012A2CAJN7) 
+
+<br />
+
+- 코드리뷰
+  - [코드리뷰의 진짜 목적?](https://blog.logi-spot.com/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EC%9D%98-%EC%A7%84%EC%A7%9C-%EB%AA%A9%EC%A0%81%EC%9D%80-%EB%94%B0%EB%A1%9C%EC%9E%88%EB%8B%A4/) 
+  - [코드 리뷰 노하우](https://github.com/MEAJIN/for-Me/blob/main/%EA%B8%B0%EB%A1%9D/%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0%20%EB%85%B8%ED%95%98%EC%9A%B0.md)
+
+<br />
+
 - PS
   - [JavaScript 알고리즘 및 자료 구조](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
   - [코딩테스트 대비 문제집(Baekjoon Online Judge)](https://github.com/tony9402/baekjoon)
   - [코딩테스트 기출 문제 풀이 및 업로드 Repository](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
 
-
-<br />
-
-
-## ⚙ 기술
-
-- 코드리뷰
-  - [코드리뷰의 진짜 목적?](https://blog.logi-spot.com/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EC%9D%98-%EC%A7%84%EC%A7%9C-%EB%AA%A9%EC%A0%81%EC%9D%80-%EB%94%B0%EB%A1%9C%EC%9E%88%EB%8B%A4/) 
-  - [코드 리뷰 노하우](https://github.com/MEAJIN/for-Me/blob/main/%EA%B8%B0%EB%A1%9D/%EC%BD%94%EB%93%9C%20%EB%A6%AC%EB%B7%B0%20%EB%85%B8%ED%95%98%EC%9A%B0.md)
 <br />
 
 ## 🌐 WEB
@@ -60,7 +62,7 @@
 <br />
 
 - Javascript
-  - [클린코드](https://github.com/qkraudghgh/clean-code-javascript-ko)
+  - [클린코드 for 자바스크립트](https://github.com/qkraudghgh/clean-code-javascript-ko)
   - [ES6+, 함수형 프로그래밍, 비동기, 동시성 프로그래밍](https://github.com/Functional-JavaScript/FunctionalES)
   - [타입스크립트 스터디](https://github.com/alstn2468/typescript-programming-study)
 
