@@ -58,6 +58,7 @@
 
 - [HTTP에 대한 모든 것](https://github.com/bookcrush/httpPerfectGuide)
 - [js개발자가 알아야하는 33가지 개념](https://github.com/yjs03057/33-js-concepts)
+- [프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정](https://yozm.wishket.com/magazine/detail/1338/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
 
 <br />
 
