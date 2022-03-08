@@ -73,6 +73,7 @@
 
 - 디자인
   - [더 나은 회원가입/로그인 UX를 위한 팁들](https://news.hada.io/topic?id=4522&utm_source=weekly&utm_medium=email&utm_campaign=202127) 
-
+  - [웹에서 이미지 및 영상 편집을 쉽게 하고 싶다면?](https://yozm.wishket.com/magazine/detail/1130/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
+  -
 <br />
 <br />
