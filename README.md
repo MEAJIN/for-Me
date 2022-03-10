@@ -13,6 +13,7 @@
   - [좋은 프론트엔드 개발자란?](https://velog.io/@peration/%EC%A2%8B%EC%9D%80-%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9E%80)
   - [개발자라면 마주치는 기술 부채, 꼭 다 갚아야 하나요?](https://yozm.wishket.com/magazine/detail/1331/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
   - [좋은 개발팀을 만드는데 도움이 되는 자료](https://github.com/leehosung/awesome-devteam)
+  - [반응형 웹, 개념 이해하기](https://yozm.wishket.com/magazine/detail/883/)
 
 - 인터뷰
   - [취준생이 반드시 알아야 할 프론트엔드 지식](https://github.com/baeharam/Must-Know-About-Frontend)
