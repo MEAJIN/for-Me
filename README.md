@@ -23,6 +23,7 @@
   - [초보자를 위한 기술 면접 지침](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
   - [웹 개발자가 알아두면 좋은 질문들](https://2ssue.github.io/common_questions_for_Web_Developer/)
   - [신입 프론트엔드 개발자 기술 면접 준비](https://blog.naver.com/cookr3/222388178531)
+  - [Sir.LOIN 소프트웨어 엔지니어 인터뷰 질문 목록](https://github.com/sirloin-dev/meatplatform/blob/master/job-description/interview-questions.adoc#interview-questions-network)
 
 - 취준
   - [IT 취업 준비 요령](https://garden1500.tistory.com/m/4)
