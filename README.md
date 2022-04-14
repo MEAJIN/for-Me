@@ -25,6 +25,7 @@
   - [신입 프론트엔드 개발자 기술 면접 준비](https://blog.naver.com/cookr3/222388178531)
   - [Sir.LOIN 소프트웨어 엔지니어 인터뷰 질문 목록](https://github.com/sirloin-dev/meatplatform/blob/master/job-description/interview-questions.adoc#interview-questions-network)
   - [객체 지향 프로그래밍이 뭔가요?](https://jeong-pro.tistory.com/95)
+  - [임원 면접에서 가장 많이 나오는 질문](https://coreaedui.com/project-details/%EC%9E%84%EC%9B%90-%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%B4-%EB%82%98%EC%98%A4%EB%8A%94-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC/)
 
 - 취준
   - [IT 취업 준비 요령](https://garden1500.tistory.com/m/4)
