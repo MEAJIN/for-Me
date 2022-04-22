@@ -16,6 +16,7 @@
   - [좋은 개발팀을 만드는데 도움이 되는 자료](https://github.com/leehosung/awesome-devteam)
   - [반응형 웹, 개념 이해하기](https://yozm.wishket.com/magazine/detail/883/)
   - [아기자기한 프로덕트 팀의 Test Case 도입기](https://yozm.wishket.com/magazine/detail/1438/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
+  - [개발자 경험이 주목받는 시대](https://yozm.wishket.com/magazine/detail/1436/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
 
 - 인터뷰
   - [취준생이 반드시 알아야 할 프론트엔드 지식](https://github.com/baeharam/Must-Know-About-Frontend)
