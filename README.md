@@ -87,4 +87,8 @@
   - [웹에서 이미지 및 영상 편집을 쉽게 하고 싶다면?](https://yozm.wishket.com/magazine/detail/1130/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
   -
 <br />
+
+## 문화
+
+- [사회초년생을 위한 슬기로운 사회생활 꿀팁(아무도 알려주지 않는 꿀팁들)](https://challengeme.tistory.com/206)
 <br />
