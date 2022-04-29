@@ -19,6 +19,7 @@
   - [개발자 경험이 주목받는 시대](https://yozm.wishket.com/magazine/detail/1436/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
   - [좋은 코딩을 위한 13 가지 간단한 규칙](https://mingrammer.com/translation-13-simple-rules-for-good-coding/)
   - [즐겁게 협업하는 방법! - 애자일과 피드백, 그리고 게임](https://yozm.wishket.com/magazine/detail/1455/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
+  - [고객의 불편함이 제품으로 되기까지, Airbridge API 팀의 개발 프로세스](https://yozm.wishket.com/magazine/detail/1454/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
 
 - 인터뷰
   - [취준생이 반드시 알아야 할 프론트엔드 지식](https://github.com/baeharam/Must-Know-About-Frontend)
